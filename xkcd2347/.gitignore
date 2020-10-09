@@ -1,0 +1,6 @@
+Pipfile
+dist
+*.egg-info
+.eggs
+test-cache
+.env
