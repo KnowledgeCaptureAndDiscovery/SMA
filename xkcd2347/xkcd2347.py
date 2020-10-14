@@ -69,6 +69,7 @@ class GitHub:
         self.key = key
         self.cache = cache
         self.parents = []
+        self.timeOut = set([])
 
     def get_dependencies(self, repo_owner, repo_name, depth=1, lang=None):
         q = '''
@@ -103,6 +104,11 @@ class GitHub:
         # seen is used to prevent a given dependency from being reported more than
         # one when a project have multiple dependencyGraphManifests
         seen = set()
+        
+        # If for mulihop the child repo has timeout before then return
+        if (repo_owner + repo_name) in self.timeOut:
+            print("Returning timeoutSet"+ repo_owner+"/"+repo_name)
+            return
 
         results = self.query(q % (repo_owner, repo_name)) 
         if 'errors' in results and len(results['errors']) > 0:
@@ -110,7 +116,11 @@ class GitHub:
             return
             sys.exit('\n'.join([e['message'] for e in results['errors']]))
         if 'timeout' in results:
+            self.timeOut.add(repo_owner + repo_name)
             print("timeout " + repo_owner +"/"+ repo_name)
+            return
+        if '500' in results:
+            print("500 " + repo_owner +"/"+ repo_name)
             return
             
         for m in results['data']['repository']['dependencyGraphManifests']['nodes']:
@@ -170,7 +180,8 @@ class GitHub:
                 else:
                     return data
             else:
-                raise Exception("Query failed to run by returning code of {}. {}".format(resp.status_code, q))
+                print("Query failed to run by returning code of {}. {}".format(resp.status_code, q))
+                return "{\"error\":\"500 server\"}"
 
 if __name__ == "__main__":
     main()

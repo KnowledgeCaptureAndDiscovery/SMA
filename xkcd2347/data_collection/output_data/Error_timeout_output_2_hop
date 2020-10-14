@@ -1,0 +1,1898 @@
+(data-mining) ➜  SMA git:(master) ✗ /Users/parambole/opt/anaconda3/envs/data-mining/bin/python "/Users/parambole/Documents/USC /CKIDS/SMA/xkcd2347/dependency_extractor_multi_hop.py"
+  0%|                                                          | 0/2785 [00:00<?, ?it/s]Returning facebook/react
+Returning facebook/react
+timeout helior/react-highlighter
+timeout balloob/react-sidebar
+timeout abraztsov/react-sweet-progress
+  0%|                                             | 2/2785 [10:11<327:20:35, 423.44s/it]timeout ruby-rdf/rdf-vocab
+  0%|                                             | 3/2785 [10:32<234:02:33, 302.86s/it]timeout ARGOeu/argo-api-authn
+  0%|                                               | 7/2785 [10:42<57:39:56, 74.73s/it]timeout leegao/readme2tex
+  0%|▏                                             | 12/2785 [11:11<12:31:12, 16.25s/it]timeout isaacs/node-lru-cache
+timeout browserify/vm-browserify
+  1%|▎                                             | 19/2785 [14:39<12:45:33, 16.61s/it]timeout mattupstate/flask-security
+timeout inveniosoftware/citeproc-py-styles
+timeout mattupstate/flask-jwt
+timeout mattupstate/flask-mail
+timeout mattupstate/flask-principal
+timeout smurfix/flask-script
+timeout nilearn/nistats
+Returning facebook/react
+Returning facebook/react
+timeout anthonyjgrove/react-google-login
+timeout shakhassan/vega
+timeout jonathantneal/array-flat-polyfill
+  2%|▋                                             | 43/2785 [25:00<16:06:40, 21.15s/it]timeout ehead/clinat-afiliaciones
+timeout lokesh/lightbox2
+  2%|▉                                              | 56/2785 [25:55<4:02:37,  5.33s/it]timeout csu-hmc/GaitAnalysisToolKit
+  2%|█                                              | 62/2785 [26:05<1:29:42,  1.98s/it]timeout sapegin/grunt-bower-concat
+  2%|█                                              | 63/2785 [26:12<2:29:08,  3.29s/it]timeout hhatto/autopep8
+timeout iluminite/configglue
+timeout openpolis/piston_mini_client
+timeout bernardobarreto/virtualenvwrapper
+  2%|█▏                                             | 68/2785 [26:57<3:53:04,  5.15s/it]timeout QuantumGhost/pendulum
+  3%|█▏                                             | 73/2785 [27:19<3:05:14,  4.10s/it]timeout angular/angular
+  3%|█▏                                            | 75/2785 [34:34<70:19:00, 93.41s/it]timeout jgraving/DeepPoseKit
+timeout TeamHG-Memex/eli5
+  3%|█▎                                            | 77/2785 [34:45<36:22:29, 48.36s/it]timeout 1hella/eslint-config-airbnb-es5
+  3%|█▎                                            | 79/2785 [39:16<60:37:29, 80.65s/it]timeout typeiii/jquery-csv
+  3%|█▎                                            | 83/2785 [39:42<17:01:24, 22.68s/it]timeout sysgears/mochapack
+  3%|█▎                                          | 84/2785 [46:51<108:18:23, 144.36s/it]timeout yeoman/grunt-filerev
+timeout mgol/grunt-ng-annotate
+timeout stephenplusplus/grunt-wiredep
+  3%|█▌                                             | 94/2785 [48:27<6:46:56,  9.07s/it]timeout unitjs/unit.js
+  3%|█▌                                             | 95/2785 [48:37<7:04:20,  9.46s/it]timeout tj/connect-redis
+timeout jaredhanson/passport-anonymous
+  3%|█▌                                            | 97/2785 [53:23<49:01:04, 65.65s/it]timeout angular/angular
+timeout angular/angular
+timeout angular/angular
+  4%|█▋                                            | 99/2785 [55:43<46:12:01, 61.92s/it]timeout hahnec/color-space-converter
+  4%|█▌                                           | 100/2785 [55:54<34:45:23, 46.60s/it]timeout minrk/wurlitzer
+  4%|█▋                                           | 102/2785 [56:13<20:06:50, 26.99s/it]timeout robwierzbowski/grunt-build-control
+timeout Modernizr/grunt-modernizr
+timeout erfaan/static
+  4%|█▋                                           | 103/2785 [56:39<19:53:15, 26.69s/it]timeout ecds/readux
+  4%|█▋                                           | 106/2785 [57:04<11:28:15, 15.41s/it]timeout pseewald/fprettify
+  4%|█▊                                            | 113/2785 [57:38<3:33:38,  4.80s/it]timeout pvdlg/karma-jasmine-jquery
+timeout IDCubed/karma-jasmine-ajax
+timeout webpack-contrib/script-loader
+timeout stphivos/django-mock-queries
+timeout audreyfeldroy/binaryornot
+  4%|█▊                                         | 115/2785 [1:01:52<41:29:56, 55.95s/it]timeout hynek/doc2dash
+timeout scott-maddox/fdint
+  4%|█▊                                         | 119/2785 [1:02:32<13:42:09, 18.50s/it]timeout Atrox/haikunatorphp
+timeout bshaffer/oauth2-server-php
+timeout PHPOffice/PHPExcel
+  4%|█▉                                          | 122/2785 [1:02:59<8:21:04, 11.29s/it]timeout biothings/myvariant.py
+  5%|█▉                                          | 126/2785 [1:03:20<4:42:04,  6.36s/it]timeout zendframework/ZendXml
+  5%|██                                          | 128/2785 [1:03:23<2:50:49,  3.86s/it]timeout QuantEcon/QuantEcon.py
+timeout kgrandis/nose-exclude
+timeout erikrose/nose-progressive
+  5%|██                                          | 131/2785 [1:03:48<4:01:45,  5.47s/it]timeout wikimedia/operations-debs-python-mwtypes
+  5%|██                                          | 132/2785 [1:03:49<2:59:00,  4.05s/it]timeout soft-matter/pims
+timeout soft-matter/pims_nd2
+  5%|██▏                                         | 141/2785 [1:04:12<1:33:51,  2.13s/it]timeout tripal/TripalTestSuite
+  5%|██▏                                         | 142/2785 [1:04:29<4:50:42,  6.60s/it]Returning facebook/react
+Returning facebook/react
+  5%|██▏                                        | 143/2785 [1:05:03<10:57:59, 14.94s/it]timeout dnouri/nolearn
+  5%|██▎                                         | 148/2785 [1:05:22<4:47:16,  6.54s/it]timeout maximdanilchenko/aiohttp-apispec
+  5%|██▎                                         | 149/2785 [1:05:41<7:25:56, 10.15s/it]timeout mapbox/corslite
+timeout mapbox/csv2geojson
+timeout mapbox/togeojson
+  5%|██▎                                        | 151/2785 [1:06:34<13:21:56, 18.27s/it]timeout kundajelab/SAMstats
+timeout daler/metaseq
+  6%|██▍                                         | 156/2785 [1:07:07<5:29:06,  7.51s/it]timeout vanetix/grunt-includes
+timeout mrhanlon/grunt-swaggertools
+  6%|██▌                                         | 165/2785 [1:08:19<4:59:09,  6.85s/it]timeout The-Compiler/pytest-xvfb
+  6%|██▋                                         | 167/2785 [1:08:24<3:24:58,  4.70s/it]timeout bootphon/h5features
+  6%|██▋                                         | 168/2785 [1:08:31<4:01:42,  5.54s/it]timeout SimenB/add-asset-html-webpack-plugin
+timeout mridgway/hoist-non-react-statics
+Returning facebook/react
+Returning facebook/react
+Returning facebook/react
+Returning reduxjs/redux
+timeout arthurbergmz/webpack-pwa-manifest
+  6%|██▋                                        | 172/2785 [1:11:27<15:03:13, 20.74s/it]  6%|██▋                                        | 172/2785 [1:19:05<20:01:36, 27.59s/it]
+Traceback (most recent call last):
+  File "/Users/parambole/Documents/USC /CKIDS/SMA/xkcd2347/dependency_extractor_multi_hop.py", line 41, in <module>
+    getDependencies("data/valid_repos", "data/valid_repos_hops_2.json", "457af2dd039d9fd283c498187882f4d80be91722", 2)
+  File "/Users/parambole/Documents/USC /CKIDS/SMA/xkcd2347/dependency_extractor_multi_hop.py", line 19, in getDependencies
+    result = [dep['packageName'] for dep in gh.get_dependencies(repo_owner = owner, repo_name = repo, depth = hop)]
+  File "/Users/parambole/Documents/USC /CKIDS/SMA/xkcd2347/dependency_extractor_multi_hop.py", line 19, in <listcomp>
+    result = [dep['packageName'] for dep in gh.get_dependencies(repo_owner = owner, repo_name = repo, depth = hop)]
+  File "/Users/parambole/Documents/USC /CKIDS/SMA/xkcd2347/xkcd2347.py", line 147, in get_dependencies
+    lang
+  File "/Users/parambole/Documents/USC /CKIDS/SMA/xkcd2347/xkcd2347.py", line 109, in get_dependencies
+    results = self.query(q % (repo_owner, repo_name)) 
+  File "/Users/parambole/Documents/USC /CKIDS/SMA/xkcd2347/xkcd2347.py", line 159, in query
+    resp = requests.post('https://api.github.com/graphql', json={'query': q}, headers=headers)
+  File "/Users/parambole/opt/anaconda3/envs/data-mining/lib/python3.6/site-packages/requests/api.py", line 110, in post
+    return request('post', url, data=data, json=json, **kwargs)
+  File "/Users/parambole/opt/anaconda3/envs/data-mining/lib/python3.6/site-packages/requests/api.py", line 56, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/Users/parambole/opt/anaconda3/envs/data-mining/lib/python3.6/site-packages/requests/sessions.py", line 488, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Users/parambole/opt/anaconda3/envs/data-mining/lib/python3.6/site-packages/requests/sessions.py", line 609, in send
+    r = adapter.send(request, **kwargs)
+  File "/Users/parambole/opt/anaconda3/envs/data-mining/lib/python3.6/site-packages/requests/adapters.py", line 423, in send
+    timeout=timeout
+  File "/Users/parambole/opt/anaconda3/envs/data-mining/lib/python3.6/site-packages/requests/packages/urllib3/connectionpool.py", line 594, in urlopen
+    chunked=chunked)
+  File "/Users/parambole/opt/anaconda3/envs/data-mining/lib/python3.6/site-packages/requests/packages/urllib3/connectionpool.py", line 350, in _make_request
+    self._validate_conn(conn)
+  File "/Users/parambole/opt/anaconda3/envs/data-mining/lib/python3.6/site-packages/requests/packages/urllib3/connectionpool.py", line 835, in _validate_conn
+    conn.connect()
+  File "/Users/parambole/opt/anaconda3/envs/data-mining/lib/python3.6/site-packages/requests/packages/urllib3/connection.py", line 323, in connect
+    ssl_context=context)
+  File "/Users/parambole/opt/anaconda3/envs/data-mining/lib/python3.6/site-packages/requests/packages/urllib3/util/ssl_.py", line 324, in ssl_wrap_socket
+    return context.wrap_socket(sock, server_hostname=server_hostname)
+  File "/Users/parambole/opt/anaconda3/envs/data-mining/lib/python3.6/ssl.py", line 407, in wrap_socket
+    _context=self, _session=session)
+  File "/Users/parambole/opt/anaconda3/envs/data-mining/lib/python3.6/ssl.py", line 817, in __init__
+    self.do_handshake()
+  File "/Users/parambole/opt/anaconda3/envs/data-mining/lib/python3.6/ssl.py", line 1077, in do_handshake
+    self._sslobj.do_handshake()
+  File "/Users/parambole/opt/anaconda3/envs/data-mining/lib/python3.6/ssl.py", line 689, in do_handshake
+    self._sslobj.do_handshake()
+KeyboardInterrupt
+(data-mining) ➜  SMA git:(master) ✗ /Users/parambole/opt/anaconda3/envs/data-mining/bin/python "/Users/parambole/Documents/USC /CKIDS/SMA/xkcd2347/dependency_extractor_multi_hop.py"
+  1%|▍                                              | 25/2668 [01:56<5:24:15,  7.36s/it]Returning facebook/react
+Returning facebook/react
+  2%|▉                                              | 51/2668 [05:56<4:05:37,  5.63s/it]Returning facebook/react
+Returning facebook/react
+Returning facebook/react
+Returning reduxjs/redux
+  2%|▉                                             | 56/2668 [09:17<13:22:35, 18.44s/it]timeout compas-dev/compas_fea
+  2%|█                                              | 57/2668 [09:17<9:26:56, 13.03s/it]timeout zweiven/remotebiodiversity
+  2%|█                                              | 60/2668 [09:28<5:11:59,  7.18s/it]timeout mkoeppe/sage-numerical-backends-coin
+  2%|█                                              | 61/2668 [09:30<4:05:00,  5.64s/it]timeout plotly/dash-daq
+  2%|█                                              | 63/2668 [09:47<4:39:37,  6.44s/it]timeout inducer/cgen
+timeout inducer/codepy
+timeout inducer/genpy
+timeout inducer/pymbolic
+  3%|█▎                                             | 71/2668 [11:02<6:39:21,  9.23s/it]timeout mhe/pynrrd
+  3%|█▎                                             | 75/2668 [11:20<3:40:00,  5.09s/it]timeout mlgill/pygments-style-monokailight
+  3%|█▍                                             | 83/2668 [12:14<4:42:48,  6.56s/it]timeout foerstner-lab/READemption
+  3%|█▌                                            | 89/2668 [20:27<37:09:38, 51.87s/it]timeout Jupyter-contrib/jupyter_contrib_core
+timeout Jupyter-contrib/jupyter_nbextensions_configurator
+  4%|█▌                                            | 94/2668 [21:18<10:03:00, 14.06s/it]timeout jahredhope/promise-file-reader
+  4%|█▋                                           | 100/2668 [27:51<17:05:53, 23.97s/it]timeout zopefoundation/BTrees
+  4%|█▊                                            | 106/2668 [28:13<4:06:50,  5.78s/it]timeout jpieper/pygazebo
+  4%|█▉                                            | 109/2668 [28:31<4:09:27,  5.85s/it]timeout blakeembrey/change-case
+timeout solzimer/skmeans
+  4%|█▉                                           | 113/2668 [37:14<40:26:00, 56.97s/it]timeout vtraag/leidenalg
+  4%|█▉                                           | 117/2668 [37:44<15:02:11, 21.22s/it]timeout intridea/multi_json
+  5%|██                                            | 122/2668 [38:54<7:11:02, 10.16s/it]timeout hvidy/halophot
+  5%|██▏                                           | 126/2668 [39:14<4:34:14,  6.47s/it]timeout nucleic/kiwi
+timeout ecordell/pymacaroons
+timeout miyakogi/pyppeteer
+timeout kurtraschke/pyRFC3339
+  5%|██▎                                           | 134/2668 [40:45<3:27:12,  4.91s/it]timeout leviable/explicit
+  5%|██▍                                           | 138/2668 [41:05<2:44:40,  3.91s/it]timeout dev-cafe/parselglossy
+timeout Fingertips/nap
+timeout ermaker/no_proxy_fix
+  5%|██▍                                           | 141/2668 [41:33<4:40:21,  6.66s/it]timeout SheetJS/js-adler32
+timeout SheetJS/js-cfb
+timeout SheetJS/js-codepage
+timeout SheetJS/frac
+timeout infohold-works/message-box
+timeout brianvoe/slim-select
+  5%|██▍                                          | 144/2668 [45:59<30:31:16, 43.53s/it]timeout ben-ng/minifyify
+timeout scijs/ndarray-blas-level1
+  6%|██▌                                           | 151/2668 [46:54<7:34:36, 10.84s/it]timeout saullocastro/structsolve
+  6%|██▌                                           | 152/2668 [47:00<6:28:39,  9.27s/it]timeout chriswailes/RLTK
+  6%|██▋                                           | 153/2668 [47:05<5:40:34,  8.12s/it]timeout gwik/geventhttpclient
+timeout heyman/locust
+  6%|██▊                                           | 160/2668 [47:48<3:44:21,  5.37s/it]timeout nschloe/pyfma
+  6%|██▊                                           | 164/2668 [47:56<2:15:00,  3.23s/it]timeout hyperswarm/dht
+timeout hyperswarm/discovery
+timeout mafintosh/abstract-extension
+timeout mafintosh/atomic-batcher
+timeout cryptocoinjs/base-x
+timeout mafintosh/bitfield-rle
+timeout mafintosh/blake2b-wasm
+timeout fanatid/browserify-package-json
+timeout cryptocoinjs/bs58
+timeout mafintosh/bulk-write-stream
+timeout paroga/cbor-js
+timeout mikolalysenko/count-trailing-zeros
+Query failed to run by returning code of 502. 
+            {
+              repository(owner: "date-fns", name: "date-fns") {
+                description
+                dependencyGraphManifests(first: 50) {
+                  nodes {
+                    blobPath
+                    dependencies {
+                      nodes {
+                        packageName
+                        repository {
+                          name
+                          owner {
+                            login
+                          }
+                          primaryLanguage {
+                            name
+                          }
+                        }
+                        requirements
+                        hasDependencies
+                      }
+                    }
+                  }
+                }
+              }
+            }
+            
+500 date-fns/date-fns
+timeout mafintosh/fast-bitfield
+timeout mafintosh/fd-lock
+timeout mafintosh/flat-tree
+timeout davidmarkclements/guard-timeout
+timeout dominictarr/hashlru
+timeout emilbayes/hmac-blake2b
+timeout andrewosh/hypercore-cache
+timeout mafintosh/hypercore-crypto
+timeout mafintosh/inspect-custom-symbol
+timeout mafintosh/ipv4-peers
+timeout mafintosh/is-options
+timeout mafintosh/last-one-wins
+timeout mafintosh/merkle-tree-stream
+timeout mafintosh/nanoguard
+timeout mafintosh/nanoresource
+  7%|███                                           | 178/2668 [52:11<2:32:16,  3.67s/it]timeout jrderuiter/pybiomart
+  7%|███▏                                          | 188/2668 [52:35<1:21:54,  1.98s/it]timeout zopefoundation/zope.cachedescriptors
+  7%|███▎                                          | 189/2668 [52:50<3:59:04,  5.79s/it]timeout cacjs/cac
+  7%|███▏                                       | 194/2668 [1:00:43<24:56:23, 36.29s/it]timeout pri22296/beautifultable
+timeout aplowman/bravais
+timeout lmmentel/mendeleev
+  7%|███▏                                       | 195/2668 [1:00:50<18:55:42, 27.55s/it]timeout guaix-ucm/pyemir
+  7%|███▏                                       | 196/2668 [1:00:50<13:18:32, 19.38s/it]timeout biosustain/croissance
+  8%|███▎                                        | 201/2668 [1:01:03<3:34:34,  5.22s/it]timeout quantopian/qgrid
+  8%|███▍                                        | 205/2668 [1:01:20<2:35:22,  3.79s/it]timeout privazio/pyone
+  8%|███▍                                        | 212/2668 [1:02:14<5:42:26,  8.37s/it]timeout glottobank/python-newick
+  8%|███▌                                        | 214/2668 [1:02:20<3:39:27,  5.37s/it]timeout astropy/sphinx-astropy
+  8%|███▌                                        | 218/2668 [1:02:57<7:05:34, 10.42s/it]timeout JelleAalbers/multihist
+timeout JelleAalbers/wimprates
+  8%|███▌                                        | 219/2668 [1:03:04<6:25:35,  9.45s/it]timeout zhengp0/xspline
+  8%|███▋                                        | 221/2668 [1:03:15<4:59:57,  7.35s/it]timeout marcj/css-element-queries
+  9%|███▉                                        | 235/2668 [1:08:54<3:56:04,  5.82s/it]timeout arsduo/koala
+  9%|███▊                                       | 237/2668 [1:10:10<13:03:46, 19.34s/it]timeout fedora-infra/fedmsg
+timeout fedora-infra/fedmsg_meta_fedora_infrastructure
+timeout mitsuhiko/flask-openid
+timeout gyllstromk/Flask-WhooshAlchemy
+timeout fedora-infra/python-fedora
+  9%|████                                        | 243/2668 [1:11:25<7:09:10, 10.62s/it]timeout lingpy/lingpy
+  9%|████                                        | 248/2668 [1:11:47<4:05:18,  6.08s/it]timeout lcharleux/argiope
+ 10%|████▏                                       | 254/2668 [1:12:06<2:06:25,  3.14s/it]timeout jkommer/GravatarHelper
+ 10%|████▎                                       | 260/2668 [1:12:44<2:45:56,  4.13s/it]timeout josephhardinee/PyDSD
+ 10%|████▍                                       | 266/2668 [1:13:07<2:18:02,  3.45s/it]timeout qubvel/efficientnet
+ 10%|████▎                                      | 270/2668 [1:15:41<20:37:58, 30.98s/it]timeout spacetelescope/pysynphot
+ 10%|████▎                                      | 271/2668 [1:15:46<15:22:40, 23.10s/it]timeout svenevs/exhale
+ 10%|████▌                                       | 275/2668 [1:16:05<5:45:21,  8.66s/it]timeout d3/d3-hexbin
+Returning facebook/react
+timeout gaearon/react-hot-loader
+ 10%|████▍                                      | 276/2668 [1:16:36<10:17:31, 15.49s/it]timeout metagriffin/aadict
+timeout DataBrewery/cubes
+timeout carlosescri/DottedDict
+timeout dr-leo/pandaSDMX
+timeout CloudPolis/webdav-client-python
+ 12%|█████                                       | 308/2668 [1:19:31<2:02:01,  3.10s/it]timeout apotonick/apotomo
+timeout datamapper/dm-is-versioned
+timeout wardencommunity/rails_warden
+timeout resque/resque
+timeout liefni/rql
+timeout jtprince/rserve-simpler
+timeout rvm/rvm-capistrano
+timeout markbates/configatron
+timeout datamapper/dm-adjust
+timeout datamapper/dm-constraints
+timeout datamapper/dm-core
+timeout datamapper/dm-do-adapter
+timeout datamapper/dm-is-list
+timeout datamapper/dm-is-remixable
+timeout datamapper/dm-migrations
+timeout datamapper/dm-serializer
+timeout datamapper/dm-transactions
+timeout datamapper/dm-types
+timeout rubyworks/facets
+timeout gimite/google-spreadsheet-ruby
+timeout apotonick/hooks
+timeout colbygk/log4r
+timeout oauth-xx/oauth-ruby
+timeout sickill/racksh
+timeout clbustos/Rserve-Ruby-client
+timeout rkh/sinatra-advanced-routes
+timeout rkh/sinatra-sugar
+timeout knut2/todonotes
+timeout yogo/yogo-operation
+timeout yogo/yogo-support
+ 12%|█████▎                                      | 322/2668 [1:23:16<6:22:15,  9.78s/it]timeout neurophysik/CHSPy
+ 12%|█████▎                                      | 323/2668 [1:23:24<6:03:28,  9.30s/it]timeout lukeed/mri
+ 12%|█████▎                                     | 327/2668 [1:29:01<25:23:00, 39.03s/it]timeout vikfroberg/babel-root-import
+timeout kumarharsh/custom-event-polyfill
+timeout Kegsay/flow-jsdoc
+timeout ben-eb/gulp-cssnano
+timeout jonschlinkert/gulp-htmlmin
+timeout Modernizr/gulp-modernizr
+timeout petkaantonov/bluebird-q
+timeout blakeembrey/change-case
+ 12%|█████▎                                     | 330/2668 [1:34:45<42:32:50, 65.51s/it]timeout MarcoMuellner/pyfcomb
+ 12%|█████▎                                     | 332/2668 [1:35:09<24:18:15, 37.46s/it]timeout raamana/pyradigm
+ 13%|█████▋                                      | 344/2668 [1:35:48<2:11:38,  3.40s/it]timeout zarr-developers/numcodecs
+ 13%|█████▋                                      | 346/2668 [1:36:08<3:44:28,  5.80s/it]timeout bjodah/pyneqsys
+ 13%|█████▋                                      | 348/2668 [1:36:20<3:32:33,  5.50s/it]timeout benjimin/descartes
+timeout cbolanos79/pygmap
+timeout spreg-git/pysal
+timeout spyder-ide/pywinpty
+timeout mapbox/snuggs
+ 13%|█████▊                                      | 354/2668 [1:37:42<3:49:50,  5.96s/it]timeout soil-physics-okstate/automated_soil_moisture_mapping
+ 13%|█████▊                                      | 355/2668 [1:37:43<2:47:58,  4.36s/it]timeout tonysyu/mpltools
+ 13%|█████▉                                      | 358/2668 [1:37:54<2:10:27,  3.39s/it]timeout gumblex/htmllisting-parser
+ 14%|█████▉                                      | 361/2668 [1:38:29<4:19:15,  6.74s/it]timeout BDNYC/astrodbkit
+ 14%|█████▉                                      | 363/2668 [1:38:38<3:34:35,  5.59s/it]timeout pyscience-projects/pyevtk
+ 14%|██████                                      | 366/2668 [1:38:52<2:59:50,  4.69s/it]timeout imathis/guard-jekyll-plus
+timeout guard/guard-livereload
+timeout inukshuk/citeproc
+timeout inukshuk/csl-styles
+timeout berkmancenter/namae
+ 14%|█████▉                                     | 367/2668 [1:42:41<45:53:02, 71.79s/it]timeout arXiv/arxiv-base
+timeout klen/pylama
+ 14%|█████▉                                     | 368/2668 [1:43:26<40:41:33, 63.69s/it]Returning facebook/react
+timeout sghall/react-compound-slider
+Returning facebook/react
+timeout styleguidist/react-styleguidist
+timeout blakeembrey/change-case
+ 14%|██████                                     | 373/2668 [1:50:23<27:53:01, 43.74s/it]timeout 3dmind/jest-sonar-reporter
+ 14%|██████                                     | 377/2668 [1:58:55<41:51:22, 65.77s/it]timeout CabbageDevelopment/async-process-scheduler
+ 15%|██████▍                                     | 391/2668 [1:59:59<2:30:58,  3.98s/it]timeout SuLab/genewikiworld
+ 15%|██████▌                                     | 395/2668 [2:00:15<2:50:25,  4.50s/it]timeout adamrehn/slidingwindow
+ 15%|██████▌                                     | 397/2668 [2:00:47<5:49:11,  9.23s/it]timeout chaselgrove/python-xnat
+ 15%|██████▋                                     | 402/2668 [2:01:23<4:39:01,  7.39s/it]timeout raccoonmonk/pyside2
+ 16%|██████▊                                     | 414/2668 [2:02:03<1:39:40,  2.65s/it]Returning facebook/react
+timeout blakeembrey/change-case
+timeout Mixbook/types-react-color
+Returning facebook/react
+Returning facebook/react
+timeout boopathi/react-svg-loader
+Returning reduxjs/redux
+timeout mrkchoi/airbnb_clone
+timeout flexdinesh/browser-or-node
+timeout diva-e/eslint-config-typescript-recommended
+timeout svgdotjs/svg.draw.js
+timeout svgdotjs/svg.select.js
+timeout TracyWebTech/django-revproxy
+ 16%|██████▍                                  | 415/2668 [2:12:51<122:47:47, 196.21s/it]timeout scholarslab/prism
+ 16%|██████▉                                     | 423/2668 [2:13:15<8:58:42, 14.40s/it]timeout valdergallo/django-reset-migrations
+timeout ilkka/python-enum
+timeout hydroshare/hs_restclient
+ 16%|███████                                     | 429/2668 [2:14:07<6:18:29, 10.14s/it]timeout yt-project/unyt
+ 16%|███████▏                                    | 439/2668 [2:14:48<2:24:50,  3.90s/it]timeout zopefoundation/DateTime
+ 17%|███████▎                                    | 447/2668 [2:15:09<2:12:31,  3.58s/it]timeout AllenCellModeling/czifile
+ 17%|███████▍                                    | 451/2668 [2:15:39<4:19:08,  7.01s/it]timeout PythonCharmers/maxentropy
+ 17%|███████▍                                    | 453/2668 [2:15:52<3:58:00,  6.45s/it]timeout PyUtilib/pyutilib
+ 17%|███████▌                                    | 456/2668 [2:16:12<3:40:32,  5.98s/it]timeout rossant/ipymd
+timeout biocore/qiime-default-reference
+ 17%|███████▌                                    | 459/2668 [2:16:28<3:21:04,  5.46s/it]timeout oemof/oemof-tools
+ 17%|███████▌                                    | 460/2668 [2:16:38<4:11:33,  6.84s/it]timeout kutaslab/fitgrid
+ 18%|███████▋                                    | 469/2668 [2:17:49<4:37:41,  7.58s/it]timeout avian2/jsonmerge
+ 18%|███████▊                                    | 470/2668 [2:17:52<3:41:18,  6.04s/it]timeout lazd/gulp-karma
+ 18%|███████▊                                    | 475/2668 [2:18:14<2:24:48,  3.96s/it]timeout mattSMobley/gitcheatsheet
+timeout VDBWRAIR/pyBWA
+ 18%|███████▊                                    | 477/2668 [2:18:28<3:01:14,  4.96s/it]timeout embotech/ecos-python
+ 18%|███████▉                                    | 480/2668 [2:18:45<3:04:17,  5.05s/it]timeout csdms/bmi-python
+ 18%|███████▉                                    | 481/2668 [2:18:45<2:13:26,  3.66s/it]timeout MrYsLab/pymata-aio
+ 18%|████████                                    | 486/2668 [2:19:01<2:13:31,  3.67s/it]timeout NickleDave/evfuncs
+ 18%|████████                                    | 487/2668 [2:19:12<3:34:01,  5.89s/it]timeout daler/gffutils
+ 18%|████████                                    | 490/2668 [2:19:32<3:28:08,  5.73s/it]timeout kellym/smartquotes.js
+ 18%|███████▉                                   | 493/2668 [2:21:11<10:07:45, 16.77s/it]timeout chbrown/pybtex
+timeout fraoustin/sphinx_fontawesome
+ 19%|████████▏                                   | 495/2668 [2:21:23<6:35:57, 10.93s/it]timeout nicolashainaux/sphinx-autodoc-annotation
+ 19%|████████▎                                   | 502/2668 [2:22:13<3:50:48,  6.39s/it]timeout olety/TIMLinUCB
+ 19%|████████▎                                   | 505/2668 [2:22:39<4:37:19,  7.69s/it]timeout yujinakayama/astrolabe
+ 19%|████████▍                                   | 511/2668 [2:23:10<3:07:22,  5.21s/it]timeout pirelenito/git-revision-webpack-plugin
+Returning facebook/react
+timeout react-csv/react-csv
+timeout shauns/react-d3-axis
+Returning facebook/react
+timeout MilllerTime/react-pointable
+Returning reduxjs/redux
+timeout tshelburne/redux-batched-actions
+timeout mourner/simplify-js
+ 19%|████████▎                                  | 513/2668 [2:25:16<17:21:11, 28.99s/it]timeout openeventdata/mordecai
+ 19%|████████▌                                   | 516/2668 [2:25:32<8:39:17, 14.48s/it]timeout lil-cain/newrelic
+ 19%|████████▌                                   | 517/2668 [2:25:43<8:11:43, 13.72s/it]timeout kjellmf/dot2tex
+timeout bjodah/sym
+ 20%|████████▌                                   | 521/2668 [2:25:59<3:32:58,  5.95s/it]timeout tisimst/soerp
+ 20%|████████▋                                   | 525/2668 [2:26:22<3:52:07,  6.50s/it]timeout eoghanmurray/jsonpickle_prev
+ 20%|████████▋                                   | 526/2668 [2:26:24<3:01:16,  5.08s/it]timeout impact27/background_rm
+timeout impact27/registrator
+ 20%|████████▊                                   | 534/2668 [2:26:55<1:34:34,  2.66s/it]timeout jonathaneunice/textwrap3
+ 20%|████████▉                                   | 544/2668 [2:27:46<2:05:27,  3.54s/it]timeout vikmaksimenko/clipboard
+ 21%|█████████▏                                  | 558/2668 [2:29:23<3:47:04,  6.46s/it]timeout rails/activerecord-session_store
+timeout capistrano/bundler
+timeout capistrano/rails
+timeout capistrano/rbenv
+timeout DavyJonesLocker/capybara-email
+timeout thoughtbot/factory_bot_rails
+timeout laserlemon/figaro
+timeout FortAwesome/font-awesome-sass
+timeout rweng/jquery-datatables-rails
+timeout postmodern/nokogiri-diff
+timeout toyokazu/omniauth-shibboleth
+timeout phusion/passenger
+timeout blackwinter/ruby-filemagic
+timeout janko/tus-ruby-server
+timeout hallelujah/valid_email
+timeout fringd/zipline
+timeout pexels/aws-sdk-personalize
+timeout pexels/aws-sdk-personalizeruntime
+ 21%|█████████                                  | 559/2668 [2:33:36<47:01:41, 80.28s/it]timeout angular/angular
+timeout angular/angular
+timeout angular/angular
+timeout angular/angular
+timeout angular/angular
+timeout angular/angular
+timeout babel/babel
+timeout babel/babel
+timeout 2mia/ionic-native-barcode-scanner
+timeout paxtonhare/ionic-native-dist
+timeout rarago/ionic-native-http
+timeout RobinGiel/local-notification
+timeout pelmet/ionic-native-statusbar
+timeout ngx-translate/http-loader
+timeout chartjs/chartjs-color-string
+timeout apache/cordova-plugin-file
+timeout apache/cordova-plugin-statusbar
+timeout borisgastelu/ionic-cache-src
+ 21%|████████▊                                 | 561/2668 [2:40:10<71:53:22, 122.83s/it]timeout ecmwf/cfgrib
+ 21%|█████████                                  | 566/2668 [2:40:44<14:45:59, 25.29s/it]timeout RDFLib/pySHACL
+ 21%|█████████▎                                  | 568/2668 [2:40:53<8:29:30, 14.56s/it]timeout NLESC-JCER/QMCTorch
+ 21%|█████████▍                                  | 570/2668 [2:40:56<4:32:47,  7.80s/it]timeout polinom/pronto
+timeout ISA-tools/isa-api
+ 22%|█████████▍                                  | 576/2668 [2:41:22<3:07:45,  5.38s/it]timeout philopon/pandas_interactive_html
+ 22%|█████████▌                                  | 582/2668 [2:42:09<3:13:50,  5.58s/it]timeout astroML/astroML
+timeout astropy/pytest-astropy
+timeout adrn/schwimmbad
+ 22%|█████████▋                                  | 586/2668 [2:42:30<2:26:00,  4.21s/it]timeout kyuupichan/aiorpcX
+ 22%|█████████▊                                  | 597/2668 [2:44:00<2:47:48,  4.86s/it]timeout chapmanb/bcbb
+ 22%|█████████▉                                  | 599/2668 [2:44:16<3:54:58,  6.81s/it]timeout ihmwg/python-ihm
+ 23%|█████████▉                                  | 602/2668 [2:44:24<2:27:23,  4.28s/it]timeout pikapkg/builders
+timeout pikapkg/builders
+timeout pikapkg/builders
+timeout date-fns/date-fns
+ 23%|█████████▊                                 | 606/2668 [2:51:38<26:31:47, 46.32s/it]timeout Samreay/ChainConsumer
+ 23%|██████████                                  | 610/2668 [2:51:46<7:12:54, 12.62s/it]timeout OpenHydrology/lmoments3
+ 23%|██████████▏                                 | 614/2668 [2:52:09<4:20:43,  7.62s/it]timeout MDAnalysis/GridDataFormats
+timeout rcsb/mmtf-python
+ 23%|██████████▏                                 | 618/2668 [2:52:58<5:00:46,  8.80s/it]timeout davidgtonge/underscore-query
+ 24%|██████████▌                                 | 638/2668 [2:55:00<3:08:37,  5.58s/it]timeout timofurrer/colorful
+ 24%|██████████▌                                 | 639/2668 [2:55:13<4:29:04,  7.96s/it]timeout flazz/semver
+ 24%|██████████▌                                 | 640/2668 [2:55:32<6:21:22, 11.28s/it]timeout tell-k/sphinxjp.themes.basicstrap
+ 24%|██████████▋                                 | 647/2668 [2:56:09<2:55:24,  5.21s/it]timeout simonpercivall/astunparse
+timeout wenmin-wu/jupyter-tabnine
+ 24%|██████████▋                                 | 650/2668 [2:57:10<6:24:58, 11.45s/it]timeout lucashn/peakutils
+ 24%|██████████▋                                 | 651/2668 [2:57:18<5:49:55, 10.41s/it]timeout Climdyn/qgs
+ 24%|██████████▊                                 | 653/2668 [2:57:18<2:58:15,  5.31s/it]timeout lfortin/node-os-monitor
+ 25%|██████████▊                                 | 654/2668 [2:57:23<2:54:15,  5.19s/it]timeout Lemmons/pytest-raises
+ 25%|██████████▊                                 | 656/2668 [2:57:35<3:05:39,  5.54s/it]timeout blakeembrey/change-case
+ 25%|██████████▎                               | 657/2668 [3:05:34<82:26:43, 147.59s/it]timeout drdoctr/doctr
+ 25%|██████████▋                                | 663/2668 [3:06:27<12:59:36, 23.33s/it]timeout deezer/html-linter
+ 25%|███████████                                 | 669/2668 [3:07:11<4:10:31,  7.52s/it]timeout jekyll/jekyll-textile-converter
+timeout blackwinter/rb-gsl
+timeout jgarber/redcloth
+ 25%|███████████                                 | 671/2668 [3:07:38<5:50:14, 10.52s/it]timeout nmccready/angular-simple-logger
+timeout esvit/ng-table
+timeout angular-ui/ui-leaflet
+ 25%|███████████                                 | 672/2668 [3:07:59<7:38:53, 13.79s/it]timeout algorithmiaio/algorithmia-ruby
+ 26%|███████████▏                                | 681/2668 [3:08:49<2:24:58,  4.38s/it]timeout SheffieldML/GPy
+ 26%|███████████▏                                | 682/2668 [3:08:52<2:09:54,  3.92s/it]timeout erikperillo/cvx
+timeout gsagnol/picos
+ 26%|███████████▍                                | 690/2668 [3:10:16<4:23:43,  8.00s/it]timeout adrn/gala
+ 26%|███████████▍                                | 691/2668 [3:10:17<3:09:19,  5.75s/it]timeout jrper/pygmsh
+ 26%|███████████▋                                | 705/2668 [3:11:19<1:36:36,  2.95s/it]timeout random-access-storage/abstract-random-access
+timeout mafintosh/ansi-split
+timeout mafintosh/append-tree
+timeout mafintosh/array-lru
+timeout Raynos/corsify
+timeout feross/cross-zip
+timeout jprichardson/cross-zip-cli
+timeout datproject/dat-encoding
+timeout datproject/dat-ignore
+timeout datproject/dat-json
+timeout datproject/dat-node
+timeout datproject/dat-secret-storage
+timeout mafintosh/diffy
+timeout mafintosh/directory-index-html
+timeout mafintosh/fd-read-stream
+timeout datproject/hyperdrive-http
+timeout neat-log/neat-log
+timeout watson/progress-string
+timeout random-access-storage/random-access-memory
+timeout maxogden/subcommand
+ 27%|███████████▍                               | 709/2668 [3:14:21<10:57:50, 20.15s/it]timeout ctreffe/alfred
+ 27%|███████████▊                                | 715/2668 [3:14:34<2:26:20,  4.50s/it]timeout thoughtbot/capybara-webkit
+ 27%|███████████▉                                | 722/2668 [3:15:03<1:43:22,  3.19s/it]timeout rlworkgroup/akro
+timeout rlworkgroup/dowel
+ 27%|███████████▉                                | 725/2668 [3:15:22<2:10:21,  4.03s/it]timeout simpeg/pymatsolver
+ 27%|███████████▊                               | 732/2668 [3:17:31<17:47:00, 33.07s/it]timeout samik1986/ML_Semantic_Segmenation_NMI
+ 28%|████████████▍                               | 756/2668 [3:19:18<2:22:34,  4.47s/it]
+ (data-mining) ➜  SMA git:(master) ✗ /Users/parambole/opt/anaconda3/envs/data-mining/bin/python "/Users/parambole/Documents/USC /CKIDS/SMA/xkcd2347/dependency_extractor_multi_hop.py"
+Traceback (most recent call last):
+  File "/Users/parambole/Documents/USC /CKIDS/SMA/xkcd2347/dependency_extractor_multi_hop.py", line 1, in <module>
+    import xkcd2347
+  File "/Users/parambole/Documents/USC /CKIDS/SMA/xkcd2347/xkcd2347.py", line 106
+    if repo_owner+repo_name == "facebookreact" or repo_owner+repo_name == "reduxjsredux" or repo_owner+repo_name == "kazuponvue-i18n" or repo_owner+repo_name == "stephencookdevspeed-measure-webpack-plugin" or repo_owner+repo_name = "angularangular":
+                                                                                                                                                                                                                                      ^
+SyntaxError: invalid syntax
+(data-mining) ➜  SMA git:(master) ✗ /Users/parambole/opt/anaconda3/envs/data-mining/bin/python "/Users/parambole/Documents/USC /CKIDS/SMA/xkcd2347/dependency_extractor_multi_hop.py"
+  0%|                                                          | 0/1912 [00:00<?, ?it/s]Returning angular/angular
+Returning angular/angular
+Returning angular/angular
+Returning angular/angular
+Returning angular/angular
+Returning angular/angular
+Returning angular/angular
+Returning angular/angular
+Returning angular/angular
+  1%|▎                                              | 14/1912 [01:36<2:45:06,  5.22s/it]timeout miracle2k/flask-assets
+timeout underdogio/flask-json-multidict
+timeout muatik/flask-profiler
+timeout iiif-prezi/iiif-prezi
+timeout kvesteri/infinity
+timeout cedadev/ndg_httpsclient
+timeout pbecotte/nose-cov
+timeout lepture/otpauth
+timeout emonty/rackspace-auth-openstack
+timeout rackerlabs/rackspace-novaclient
+timeout timbertson/termstyle
+  1%|▍                                              | 16/1912 [02:22<6:37:28, 12.58s/it]timeout abelcarreras/phonolammps
+  1%|▋                                              | 27/1912 [03:14<2:29:26,  4.76s/it]timeout moonso/extract_vcf
+timeout moonso/interval_tree
+timeout moonso/vcftoolbox
+  2%|▉                                              | 37/1912 [03:57<2:11:22,  4.20s/it]timeout prathmeshrmadhu/numdifftools
+  2%|▉                                              | 40/1912 [04:24<3:41:21,  7.09s/it]timeout epoberezkin/fast-json-stable-stringify
+timeout sindresorhus/srcset
+  2%|█                                             | 44/1912 [08:20<14:12:14, 27.37s/it]timeout mapbox/mapboxgl-jupyter
+timeout greenape/mktheapidocs
+timeout mobilewebup/lockfile-0.9.1-py3k
+timeout justanr/marshmallow_enum
+timeout lelit/pglast
+timeout jfinkhaeuser/prance
+timeout penguinolog/sqlalchemy_jsonfield
+timeout approvals/ApprovalTests.Python
+  2%|█▏                                            | 47/1912 [10:29<15:21:12, 29.64s/it]timeout openearth/bmi-python
+  3%|█▏                                            | 48/1912 [10:34<11:24:35, 22.04s/it]timeout mappum/bitcoin-protocol
+timeout mappum/bitcoin-util
+timeout nomic-io/coins
+timeout RyanDsilva/easy-bigchain
+timeout nomic-io/lotion
+timeout nomic-io/js-tendermint
+timeout cryptocoinjs/bigi
+timeout mappum/bitcoin-merkle-proof
+timeout bitcoinjs/bitcoin-ops
+timeout mappum/blockchain-download
+timeout mappum/blockchain-spv
+timeout crypto-browserify/buffer-reverse
+timeout feross/chrome-dgram
+timeout feross/chrome-net
+timeout pfrazee/circular-append-file
+timeout nomic-io/deterministic-json
+timeout maxogden/discovery-channel
+timeout mafintosh/dns-discovery
+timeout mafintosh/dns-socket
+timeout cryptocoinjs/ecurve
+timeout mappum/event-cleanup
+timeout mafintosh/k-rpc
+timeout mafintosh/k-rpc-socket
+timeout nomic-io/lotion-connect
+timeout chriso/lru
+timeout nomic-io/node-merk
+timeout mafintosh/network-address
+timeout mappum/peer-exchange
+timeout pfrazee/pretty-hash
+timeout mappum/proxmise
+timeout bitcoinjs/pushdata-bitcoin
+timeout srijs/rusha
+Query failed to run by returning code of 403. 
+            {
+              repository(owner: "jupyterlab", name: "jupyterlab") {
+                description
+                dependencyGraphManifests(first: 50) {
+                  nodes {
+                    blobPath
+                    dependencies {
+                      nodes {
+                        packageName
+                        repository {
+                          name
+                          owner {
+                            login
+                          }
+                          primaryLanguage {
+                            name
+                          }
+                        }
+                        requirements
+                        hasDependencies
+                      }
+                    }
+                  }
+                }
+              }
+            }
+            
+500 jupyterlab/jupyterlab
+Query failed to run by returning code of 403. 
+            {
+              repository(owner: "jupyterlab", name: "jupyterlab") {
+                description
+                dependencyGraphManifests(first: 50) {
+                  nodes {
+                    blobPath
+                    dependencies {
+                      nodes {
+                        packageName
+                        repository {
+                          name
+                          owner {
+                            login
+                          }
+                          primaryLanguage {
+                            name
+                          }
+                        }
+                        requirements
+                        hasDependencies
+                      }
+                    }
+                  }
+                }
+              }
+            }
+            
+500 jupyterlab/jupyterlab
+timeout bigchaindb/cryptoconditions
+timeout rexxars/registry-auth-token
+timeout juanprietob/hapi-jwt-couch
+  3%|█▎                                            | 56/1912 [28:36<18:57:02, 36.76s/it]timeout arkottke/pykoom
+  3%|█▍                                             | 59/1912 [28:38<6:43:08, 13.05s/it]timeout atait/klayout-gadgets
+  3%|█▌                                             | 62/1912 [29:24<9:02:00, 17.58s/it]timeout kmagiera/babel-watch
+timeout date-fns/date-fns
+timeout ggarek/debug-dude
+Returning facebook/react
+Returning facebook/react
+Returning reduxjs/redux
+timeout CrocoDillon/redux-promises
+timeout PowToon/redux-undo-redo
+timeout ncuillery/angular-breadcrumb
+timeout omichelsen/angular-clipboard
+timeout alferov/angular-file-saver
+timeout angular-translate/angular-translate
+timeout angular-translate/bower-angular-translate-loader-static-files
+timeout antoniocapelo/angular-typewrite
+timeout alexcrack/angular-ui-notification
+timeout mbenford/ngTagsInput
+  3%|█▌                                           | 64/1912 [36:39<51:43:38, 100.77s/it]timeout fitba/km-2013-projects-team-majevica
+timeout SocietyLMDS/OrdningsVaktRapport
+  3%|█▌                                            | 66/1912 [37:06<28:35:33, 55.76s/it]timeout composer/installers
+  4%|█▉                                             | 78/1912 [38:53<5:21:47, 10.53s/it]timeout ccampbell/chromephp
+timeout symfony/polyfill-php56
+timeout ubccr/simplesamlphp-module-authglobus
+timeout silexphp/Pimple
+timeout twigphp/Twig-extensions
+timeout TooTallNate/pcre-to-regexp
+  4%|█▉                                             | 80/1912 [39:50<8:54:18, 17.50s/it]Returning facebook/react
+Returning facebook/react
+Returning reduxjs/redux
+timeout vercel/next-plugins
+timeout cssnano/cssnano
+  4%|█▉                                            | 83/1912 [43:43<21:43:46, 42.77s/it]timeout nzjrs/pygobject
+timeout DLR-RM/python-yaml-configuration
+  5%|██▎                                            | 93/1912 [44:41<2:45:46,  5.47s/it]timeout pauldix/sax-machine
+  5%|██▎                                            | 95/1912 [44:57<3:20:23,  6.62s/it]timeout winstonjs/logform
+timeout leafty/node-yaml-config
+  5%|██▍                                           | 99/1912 [50:38<19:17:57, 38.32s/it]timeout replicatedhq/hugo-algolia
+  5%|██▍                                          | 103/1912 [53:02<12:40:39, 25.23s/it]timeout jolespin/compositional
+timeout jolespin/hive_networkx
+timeout jolespin/soothsayer_utils
+  6%|██▌                                           | 108/1912 [53:31<3:37:46,  7.24s/it]timeout microsoft/Angara.Table
+  6%|██▋                                           | 110/1912 [53:51<4:48:56,  9.62s/it]timeout banesullivan/scooby
+  6%|██▋                                           | 112/1912 [54:11<4:33:37,  9.12s/it]timeout madebyhiro/codem-isoboxer
+timeout Robert-W/grunt-ftp-push
+timeout eruizdechavez/grunt-string-replace
+timeout streamroot/iron-mocha
+  6%|██▋                                          | 114/1912 [55:40<11:40:41, 23.38s/it]timeout alejandrogallo/python-doi
+  6%|██▊                                           | 118/1912 [56:06<4:59:07, 10.00s/it]timeout biocore/burrito-fillings
+  6%|██▊                                           | 119/1912 [56:10<4:06:05,  8.23s/it]timeout minrk/zmq
+  7%|███                                           | 127/1912 [56:50<1:58:31,  3.98s/it]timeout backbone-paginator/backbone.paginator
+timeout zertosh/jstify
+timeout turf-junkyard/turf-area
+timeout turf-junkyard/turf-centroid
+timeout turf-junkyard/turf-destination
+timeout Turfjs/turf-difference
+timeout Turfjs/turf-intersect
+timeout marionettejs/backbone.babysitter
+timeout blakeembrey/change-case
+timeout blakeembrey/change-case
+timeout blakeembrey/change-case
+timeout blakeembrey/change-case
+timeout CartoDB/CartoColor
+timeout redis/hiredis-node
+timeout mapnik/mapnik-reference
+timeout mummybot/postcss-strip-inline-comments
+timeout pbojinov/request-ip
+timeout inveniosoftware/dictdiffer
+timeout GetAmbassador/django-redis
+timeout WikiWatershed/gwlf-e
+timeout litl/rauth
+timeout WikiWatershed/tr-55
+timeout e-loue/django-storages
+  7%|██▉                                        | 131/1912 [1:03:08<20:02:37, 40.52s/it]timeout NV/CSSOM
+  7%|██▉                                       | 132/1912 [1:07:10<50:01:38, 101.18s/it]Returning facebook/react
+timeout gaearon/react-hot-loader
+timeout pesakitan22/react-dnd-types
+timeout blakeembrey/change-case
+timeout gaearon/disposables
+timeout davidguttman/react-pivot
+timeout davidguttman/node-dataframe
+  7%|██▉                                       | 135/1912 [1:14:52<51:06:38, 103.54s/it]timeout cmap/cmapPy
+timeout krassowski/enhanced-multiprocessing
+timeout mims-harvard/nimfa
+timeout mims-harvard/scikit-fusion
+  7%|███▏                                       | 139/1912 [1:16:11<18:21:31, 37.28s/it]timeout scipy-lectures/scipy-lecture-notes
+  8%|███▎                                        | 145/1912 [1:16:43<3:48:34,  7.76s/it]timeout yrgoldteeth/bootstrap-will_paginate
+timeout glejeune/Ruby-Graphviz
+timeout bjones/safe_attributes
+timeout CoralineAda/seer
+  8%|███▎                                       | 146/1912 [1:18:28<17:59:02, 36.66s/it]timeout etal/bioseq.js
+timeout vasturiano/d3-binarytree
+timeout ericsoco/d3-force-attract
+timeout YellowTugboat/d3-symbol-extra
+timeout sindresorhus/devtools-detect
+timeout SegFaultx64/express-http-to-https
+timeout iconic/open-iconic
+timeout niklasvh/css-line-break
+timeout mapbox/earcut
+timeout dy/font-atlas-sdf
+timeout mikolalysenko/gl-matrix-invert
+  8%|███▏                                      | 147/1912 [1:25:14<72:19:50, 147.53s/it]timeout aspiers/guard-sclang
+  8%|███▋                                        | 159/1912 [1:26:15<4:29:29,  9.22s/it]timeout davidshimjs/jaguarjs-jsdoc
+timeout pugjs/pug-lint
+timeout Makio64/shader-loader
+timeout OpenGeoscience/vgl
+timeout hexojs/hexo-fs
+  8%|███▌                                       | 161/1912 [1:28:06<13:39:31, 28.08s/it]timeout TUW-GEO/pygeobase
+  9%|███▊                                        | 165/1912 [1:28:22<4:49:08,  9.93s/it]timeout youknowone/methodtools
+  9%|███▊                                        | 166/1912 [1:28:31<4:42:13,  9.70s/it]timeout kherge-archive/php-version
+timeout symfony/polyfill-mbstring
+  9%|███▉                                        | 171/1912 [1:29:54<4:56:35, 10.22s/it]timeout heatherbooker/react-bootstrap-types
+Returning facebook/react
+Returning facebook/react
+timeout blueberryapps/react-load-script
+  9%|████                                        | 179/1912 [1:32:44<4:03:32,  8.43s/it]timeout laserkelvin/PySpecTools
+ 10%|████▍                                       | 192/1912 [1:33:32<1:59:53,  4.18s/it]timeout DavidSouther/grunt-livescript
+timeout karma-runner/karma-ie-launcher
+Returning facebook/react
+Returning facebook/react
+timeout gaearon/react-hot-loader
+Returning facebook/react
+timeout Andarist/react-textarea-autosize
+ 10%|████▎                                      | 193/1912 [1:36:34<27:30:15, 57.60s/it]timeout scikit-signal/tftb
+ 10%|████▌                                       | 198/1912 [1:37:19<7:17:17, 15.31s/it]timeout InsightSoftwareConsortium/ITKMeshToPolyData
+timeout babel/babel
+timeout babel/babel
+timeout babel/babel
+timeout zwhitchcox/babel-preset-mobx
+ 12%|█████                                       | 221/1912 [1:53:05<2:44:56,  5.85s/it]timeout ajdawson/eofs
+ 12%|█████                                       | 222/1912 [1:53:12<2:50:24,  6.05s/it]Returning angular/angular
+Returning angular/angular
+Returning angular/angular
+Returning angular/angular
+Returning angular/angular
+Returning angular/angular
+Returning angular/angular
+Returning angular/angular
+Returning angular/angular
+Returning angular/angular
+Returning angular/angular
+timeout squaremo/amqp.node
+timeout blakeembrey/change-case
+timeout cytoscape/cytoscape.js-qtip
+timeout date-fns/date-fns
+timeout joejordanbrown/popover
+timeout ronzeidman/ng2-ui-auth
+timeout cotag/ts-md5
+ 12%|█████                                      | 223/1912 [1:58:20<45:18:55, 96.59s/it]timeout yiisoft/yii2-swiftmailer
+ 13%|█████▌                                      | 240/1912 [1:59:50<2:20:22,  5.04s/it]timeout videlec/pplpy
+ 13%|█████▌                                      | 241/1912 [2:00:04<3:37:17,  7.80s/it]timeout Czaki/sphinx-qt-documentation
+ 13%|█████▌                                      | 242/1912 [2:00:44<8:07:45, 17.52s/it]timeout iuvbio/pandas_ods_reader
+ 13%|█████▋                                      | 247/1912 [2:02:03<7:43:00, 16.69s/it]Returning angular/angular
+Returning angular/angular
+Returning angular/angular
+Returning angular/angular
+Returning angular/angular
+Returning angular/angular
+Returning angular/angular
+Returning angular/angular
+Returning angular/angular
+Returning angular/angular
+Returning angular/angular
+timeout TypeStrong/ts-loader
+timeout hsolbrig/PyShEx
+ 13%|█████▋                                     | 251/1912 [2:08:18<21:23:37, 46.37s/it]timeout benmaier/bfmplot
+ 14%|██████                                      | 261/1912 [2:08:35<1:04:43,  2.35s/it]timeout biothings/mygene.py
+timeout msabramo/python-jenkins
+timeout hsolbrig/CFGraph
+timeout hsolbrig/ShExJSG
+timeout hsolbrig/sparqlslurper
+ 14%|██████                                      | 265/1912 [2:09:16<3:36:44,  7.90s/it]timeout regeirk/pycwt
+ 14%|██████                                      | 266/1912 [2:09:57<8:10:14, 17.87s/it]timeout bcj/AttrDict
+timeout bnlucas/python-basehash
+timeout dwdewang/django_celery_beat
+timeout rpkilby/django-rest-framework-guardian
+timeout bebatut/enasearch
+timeout stefankoegl/python-json-patch
+timeout jmcarp/robobrowser
+timeout turicas/rows
+timeout python-social-auth/social-core
+timeout core-api/python-openapi-codec
+timeout steelsojka/lodash-decorators
+timeout blakeembrey/change-case
+timeout freearhey/vue2-filters
+ 14%|██████                                     | 269/1912 [2:15:51<26:43:31, 58.56s/it]timeout rubensworks/manual-git-changelog.js
+timeout lerna/lerna
+timeout lerna/lerna
+timeout bahamas10/node-access-log
+timeout ForbesLindesay/QEJS
+timeout fxa/uritemplate-js
+ 14%|█████▉                                    | 270/1912 [2:23:35<82:11:04, 180.19s/it]timeout lgsvl/simulator
+ 14%|██████▎                                     | 277/1912 [2:24:13<8:59:21, 19.79s/it]Returning facebook/react
+Returning facebook/react
+timeout styleguidist/react-styleguidist
+ 15%|██████▍                                     | 280/1912 [2:25:51<9:57:05, 21.95s/it]timeout asmarques/chai-bignumber
+Returning facebook/react
+Returning facebook/react
+ 15%|██████▌                                     | 283/1912 [2:26:33<6:19:38, 13.98s/it]timeout jekyll/jekyll-archives
+ 15%|██████▋                                     | 293/1912 [2:27:17<1:47:29,  3.98s/it]Returning facebook/react
+Returning facebook/react
+timeout mm-ts-lib/types_mongodb
+timeout lunascape/mongooseDefinitelyTyped
+timeout typed-typings/npm-passport
+timeout mark07x/express-session-type
+ 15%|██████▎                                  | 294/1912 [2:40:36<108:59:38, 242.51s/it]timeout mllrsohn/gulp-protractor
+timeout jussi-kalliokoski/gulp-spa
+ 16%|██████▋                                    | 299/1912 [2:46:46<41:14:14, 92.04s/it]timeout readthedocs/sphinx_rtd_theme
+ 16%|███████                                     | 305/1912 [2:47:18<6:07:32, 13.72s/it]timeout filips123/EthAvatar.JS
+ 16%|███████                                     | 307/1912 [2:47:20<3:10:34,  7.12s/it]timeout babel/babel
+ 16%|██████▉                                    | 308/1912 [2:48:25<10:55:47, 24.53s/it]timeout willdurand/BazingaHateoasBundle
+timeout Behat/Transliterator
+timeout jdorn/sql-formatter
+timeout schmittjoh/metadata
+timeout phiamo/MopaComposerBridge
+timeout symfony/polyfill-intl-icu
+timeout symfony/polyfill-php70
+timeout symfony/polyfill-util
+timeout zendframework/zend-eventmanager
+ 16%|██████▉                                    | 310/1912 [2:49:31<11:35:44, 26.06s/it]timeout miickel/gulp-angular-templatecache
+timeout englercj/gulp-jsonmin
+timeout sanfords/gulp-minify-html
+ 16%|██████▉                                    | 311/1912 [2:49:52<10:49:31, 24.34s/it]timeout hagenw/sphinxcontrib-katex
+ 17%|███████▍                                    | 322/1912 [2:51:48<4:18:13,  9.74s/it]timeout joaomcteixeira/python-bioplottemplates
+ 17%|███████▍                                    | 325/1912 [2:52:00<2:34:48,  5.85s/it]timeout DPBayes/DP-cross-silo-federated-learning
+ 17%|███████▌                                    | 328/1912 [2:52:16<2:21:54,  5.38s/it]timeout giannisdoukas/ipython2cwl
+ 17%|███████▌                                    | 329/1912 [2:52:16<1:41:59,  3.87s/it]timeout Neurita/pypes
+ 18%|███████▊                                    | 338/1912 [2:53:40<3:08:42,  7.19s/it]timeout sirlantis/gulp-order
+ 18%|███████▊                                    | 339/1912 [2:54:23<7:48:42, 17.88s/it]timeout openvax/varcode
+ 18%|███████▊                                    | 340/1912 [2:54:27<6:02:45, 13.85s/it]timeout symfony/polyfill-apcu
+ 18%|███████▊                                    | 342/1912 [2:54:55<5:33:09, 12.73s/it]timeout GiulioRossetti/f1-communities
+timeout GiulioRossetti/ANGEL
+ 18%|███████▉                                    | 346/1912 [2:55:43<5:05:38, 11.71s/it]timeout andrzejnovak/CMSStylempl
+ 18%|████████                                    | 352/1912 [2:56:30<3:13:58,  7.46s/it]timeout rollup/rollup-plugin-buble
+timeout ashleyw/rollup-plugin-internal
+ 19%|████████                                   | 356/1912 [3:05:03<26:04:43, 60.34s/it]timeout kamikaze/webdav
+ 19%|████████                                   | 358/1912 [3:05:08<13:20:58, 30.93s/it]timeout blakeembrey/change-case
+timeout pagekit/vue-resource
+timeout greyby/vue-spinner
+timeout naomiaro/waveform-playlist
+ 19%|███████▉                                  | 360/1912 [3:12:29<46:38:17, 108.18s/it]timeout yeiniel/babel-plugin-transform-html-import-to-string
+ 19%|███████▉                                  | 361/1912 [3:19:19<85:34:35, 198.63s/it]timeout blakeembrey/change-case
+timeout sohamkamani/three-object-loader
+ 19%|███████▊                                 | 362/1912 [3:27:47<125:26:40, 291.36s/it]timeout KeplerGO/oktopus
+timeout sphinx-contrib/rawfiles
+ 19%|████████                                  | 365/1912 [3:28:13<44:51:51, 104.40s/it]timeout mohsen1/better-console
+timeout klaascuvelier/gulp-copy
+timeout rejas/gulp-json-editor
+timeout jjlharrison/gulp-rtlcss
+ 19%|████████▎                                  | 367/1912 [3:30:52<36:20:08, 84.67s/it]timeout date-fns/date-fns
+Returning facebook/react
+Returning facebook/react
+Returning reduxjs/redux
+ 20%|████████▍                                  | 376/1912 [3:47:38<12:40:13, 29.70s/it]timeout rehooks/online-status
+Returning facebook/react
+Returning facebook/react
+ 20%|████████▍                                  | 377/1912 [3:50:26<30:22:47, 71.25s/it]timeout chaijs/chai-http
+timeout underscopeio/sinon-mongoose
+timeout icambron/twix.js
+ 20%|████████▌                                  | 380/1912 [3:51:23<14:04:38, 33.08s/it]timeout joblib/joblib
+ 20%|████████▉                                   | 386/1912 [3:54:20<7:28:21, 17.63s/it]timeout GalleriaJS/galleria
+Returning facebook/react
+Returning facebook/react
+ 21%|█████████                                   | 393/1912 [3:55:04<2:29:34,  5.91s/it]timeout ericclemmons/grunt-angular-templates
+ 21%|█████████▎                                  | 402/1912 [3:57:18<4:44:44, 11.31s/it^ 21%|█████████                                  | 402/1912 [5:38:07<21:10:02, 50.47s/it]
+  87%|███████████████████████████████████████▏     | 1253/1440 [8:58:24<24:34,  7.88s/it]Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+ 87%|███████████████████████████████████████▎     | 1259/1440 [9:00:58<34:52, 11.56s/it]timeout ckknight/random-js
+ 88%|███████████████████████████████████████▍     | 1263/1440 [9:01:19<21:47,  7.38s/it]Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+timeout joepie91/node-bhttp
+timeout joepie91/node-combined-stream2
+timeout sindresorhus/condense-whitespace
+Returning timeoutSetfeross/buffer
+ 89%|████████████████████████████████████████     | 1282/1440 [9:09:57<13:57,  5.30s/it]timeout AndrewIngram/django-extra-views
+ 89%|████████████████████████████████████████     | 1283/1440 [9:10:04<15:32,  5.94s/it]timeout TNThieding/pylint-fail-under
+ 89%|████████████████████████████████████████▏    | 1285/1440 [9:10:17<15:10,  5.88s/it]Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetxtuc/webassemblyjs
+Returning timeoutSetxtuc/webassemblyjs
+Returning timeoutSetxtuc/webassemblyjs
+Returning timeoutSetxtuc/webassemblyjs
+Returning timeoutSetxtuc/webassemblyjs
+Returning timeoutSetxtuc/webassemblyjs
+Returning timeoutSetxtuc/webassemblyjs
+Returning timeoutSetxtuc/webassemblyjs
+Returning timeoutSetxtuc/webassemblyjs
+Returning timeoutSetxtuc/webassemblyjs
+Returning timeoutSetxtuc/webassemblyjs
+Returning timeoutSetfeross/buffer
+Returning timeoutSetblakeembrey/change-case
+ 90%|████████████████████████████████████████▍    | 1292/1440 [9:13:45<31:31, 12.78s/it]timeout janraasch/gulp-coffeelint
+timeout stevelacy/gulp-open
+ 90%|████████████████████████████████████████▍    | 1293/1440 [9:14:27<52:47, 21.55s/it]timeout mila-iqia/picklable-itertools
+ 90%|████████████████████████████████████████▌    | 1299/1440 [9:14:58<15:23,  6.55s/it]timeout kundajelab/genomelake
+timeout kipoi/kipoi-conda
+timeout kipoi/kipoi-utils
+ 91%|████████████████████████████████████████▊    | 1304/1440 [9:15:26<08:53,  3.92s/it]Returning timeoutSetmdx-js/mdx
+timeout mojs/mojs
+Returning timeoutSetfacebook/react
+Returning timeoutSetfacebook/react
+ 91%|██████████████████████████████████████▉    | 1305/1440 [9:16:50<1:02:37, 27.84s/it]timeout inveniosoftware/invenio-records-files
+ 91%|████████████████████████████████████████▊    | 1306/1440 [9:17:05<53:39, 24.03s/it]timeout cpjolicoeur/bb-ruby
+timeout jhardy/compass-ceaser-easing
+timeout dejan/rails_panel
+timeout caarlos0-graveyard/nprogress-rails
+timeout danmcclain/postgres_ext
+timeout norman/ambry
+timeout joshbuddy/callsite
+timeout mpalmer/git-version-bump
+timeout DavyJonesLocker/pg_array_parser
+timeout rack/rack-contrib
+ 91%|███████████████████████████████████████    | 1307/1440 [9:18:51<1:47:26, 48.47s/it]timeout ihmeuw/gbd_mapping
+ 91%|████████████████████████████████████████▉    | 1310/1440 [9:19:04<41:51, 19.32s/it]timeout tethysplatform/condorpy
+ 91%|█████████████████████████████████████████    | 1315/1440 [9:19:17<10:35,  5.09s/it]Returning timeoutSetcdent/pastescript
+ 92%|█████████████████████████████████████████▍   | 1324/1440 [9:20:55<16:30,  8.54s/it]Returning timeoutSetjakeleboeuf/contributor
+ 92%|█████████████████████████████████████████▌   | 1331/1440 [9:21:49<10:15,  5.65s/it]timeout nickfrostatx/nass
+ 93%|█████████████████████████████████████████▊   | 1338/1440 [9:22:33<09:16,  5.46s/it]Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetxtuc/webassemblyjs
+Returning timeoutSetxtuc/webassemblyjs
+Returning timeoutSetxtuc/webassemblyjs
+Returning timeoutSetxtuc/webassemblyjs
+Returning timeoutSetxtuc/webassemblyjs
+Returning timeoutSetxtuc/webassemblyjs
+Returning timeoutSetxtuc/webassemblyjs
+Returning timeoutSetxtuc/webassemblyjs
+Returning timeoutSetxtuc/webassemblyjs
+Returning timeoutSetxtuc/webassemblyjs
+Returning timeoutSetxtuc/webassemblyjs
+Returning timeoutSetfeross/buffer
+Returning timeoutSetblakeembrey/change-case
+timeout chrispahm/chartjs-plugin-dragdata
+timeout Neckster/chartjs-plugin-piechart-outlabels
+timeout nolanlawson/pouchdb-find
+timeout colinskow/pouchdb-live-find
+ 93%|███████████████████████████████████████▉   | 1339/1440 [9:25:56<1:48:43, 64.59s/it]Returning timeoutSetbabel/babel
+Returning timeoutSetfeross/buffer
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetxtuc/webassemblyjs
+Returning timeoutSetxtuc/webassemblyjs
+Returning timeoutSetxtuc/webassemblyjs
+Returning timeoutSetxtuc/webassemblyjs
+Returning timeoutSetxtuc/webassemblyjs
+Returning timeoutSetxtuc/webassemblyjs
+Returning timeoutSetxtuc/webassemblyjs
+Returning timeoutSetxtuc/webassemblyjs
+Returning timeoutSetxtuc/webassemblyjs
+Returning timeoutSetxtuc/webassemblyjs
+Returning timeoutSetxtuc/webassemblyjs
+Returning timeoutSetblakeembrey/change-case
+timeout stephenmathieson-boneyard/node-concatenate
+Returning timeoutSetdate-fns/date-fns
+timeout kazupon/vue-i18n
+timeout marionettejs/backbone.radio
+timeout balloob/deep-clone-simple
+ 93%|████████████████████████████████████████   | 1343/1440 [9:32:51<1:36:20, 59.59s/it]timeout swayf/grako
+ 93%|██████████████████████████████████████████   | 1345/1440 [9:32:53<47:08, 29.77s/it]timeout luisnaranjo733/periodic
+ 94%|██████████████████████████████████████████▍  | 1357/1440 [9:34:10<07:50,  5.67s/it]timeout jhunkeler/jwst
+ 95%|██████████████████████████████████████████▋  | 1367/1440 [9:36:08<09:52,  8.11s/it]Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetxtuc/webassemblyjs
+Returning timeoutSetxtuc/webassemblyjs
+Returning timeoutSetxtuc/webassemblyjs
+Returning timeoutSetxtuc/webassemblyjs
+Returning timeoutSetxtuc/webassemblyjs
+Returning timeoutSetxtuc/webassemblyjs
+Returning timeoutSetxtuc/webassemblyjs
+Returning timeoutSetxtuc/webassemblyjs
+Returning timeoutSetxtuc/webassemblyjs
+Returning timeoutSetxtuc/webassemblyjs
+Returning timeoutSetxtuc/webassemblyjs
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetfeross/buffer
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetblakeembrey/change-case
+timeout kristw/d3.promise
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetfacebook/react
+Returning timeoutSetfacebook/react
+Returning timeoutSetangular/angular-cli
+Returning timeoutSetangular/angular-cli
+Returning timeoutSetangular/angular
+Returning timeoutSetangular/angular-cli
+Returning timeoutSetangular/angular
+Returning timeoutSetangular/angular
+Returning timeoutSetangular/angular
+Returning timeoutSetangular/angular
+Returning timeoutSetangular/angular
+Returning timeoutSetangular/angular
+Returning timeoutSetangular/angular
+Returning timeoutSetangular/angular
+Returning timeoutSetangular/angular
+Returning timeoutSetangular/angular
+Returning timeoutSetangular/angular-cli
+timeout matthew-andrews/denodeify
+ 96%|███████████████████████████████████████████▏ | 1382/1440 [9:43:42<05:29,  5.68s/it]Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+timeout sebinsua/ietf-language-tag-regex
+timeout yaxia/json-edm-parser
+ 96%|███████████████████████████████████████████▎ | 1384/1440 [9:46:40<37:26, 40.12s/it]Returning timeoutSetdotnet/source-build
+ 96%|███████████████████████████████████████████▎ | 1386/1440 [9:46:47<19:28, 21.63s/it]Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+ 96%|█████████████████████████████████████████▍ | 1387/1440 [9:50:22<1:10:12, 79.49s/it]timeout andreasbm/masonry-layout
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+timeout PolymerLabs/blocking-elements
+timeout browserslist/browserslist-useragent
+Returning timeoutSetfeross/buffer
+Returning timeoutSetblakeembrey/change-case
+timeout direwolf/direwolf-ifml-elements
+timeout direwolf/direwolf-istar-elements
+timeout ashubham/es-dev-commonjs-transformer
+ 97%|███████████████████████████████████████████▋ | 1398/1440 [9:54:35<06:18,  9.01s/it]Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetxtuc/webassemblyjs
+Returning timeoutSetxtuc/webassemblyjs
+Returning timeoutSetxtuc/webassemblyjs
+Returning timeoutSetxtuc/webassemblyjs
+Returning timeoutSetxtuc/webassemblyjs
+Returning timeoutSetxtuc/webassemblyjs
+Returning timeoutSetxtuc/webassemblyjs
+Returning timeoutSetxtuc/webassemblyjs
+Returning timeoutSetxtuc/webassemblyjs
+Returning timeoutSetxtuc/webassemblyjs
+Returning timeoutSetxtuc/webassemblyjs
+Returning timeoutSetfeross/buffer
+Returning timeoutSetdate-fns/date-fns
+timeout scijs/nifti-js
+timeout postmanlabs/npm-cli-login
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetfacebook/react
+Returning timeoutSetfacebook/react
+ 98%|██████████████████████████████████████████▉ | 1406/1440 [10:04:01<09:35, 16.92s/it]Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+timeout AndreasMadsen/clarify
+timeout sibu-github/deep-parse-json
+Returning timeoutSetsindresorhus/electron-debug
+timeout sasaplus1/ipc-promise
+Returning timeoutSetfacebook/react
+timeout Sitebase/react-avatar
+Returning timeoutSetfacebook/react
+timeout bevacqua/react-dragula
+Returning timeoutSetgaearon/react-hot-loader
+Returning timeoutSetreduxjs/redux
+timeout swashcap/scino
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetfeross/buffer
+Returning timeoutSetmcollina/help-me
+timeout madbence/node-bresenham
+timeout cainus/BufferMaker
+timeout madbence/node-drawille
+timeout yaronn/drawille-canvas-blessed-contrib
+timeout kesla/fast-future
+timeout thlorenz/hermit
+timeout SBoudrias/Inquirer.js
+timeout SOHU-Co/kafka-node
+timeout dominictarr/level-post
+timeout maxogden/request-stream
+ 98%|███████████████████████████████████████████▏| 1415/1440 [10:16:58<07:41, 18.44s/it]timeout datamapper/dm-is-nested_set
+timeout carrierwaveuploader/carrierwave-datamapper
+timeout datamapper/dm-validations
+ 99%|███████████████████████████████████████████▌| 1425/1440 [10:18:57<01:27,  5.80s/it]timeout jbasko/pytest-random-order
+ 99%|███████████████████████████████████████████▋| 1430/1440 [10:19:20<00:44,  4.44s/it]Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetbabel/babel
+Returning timeoutSetsindresorhus/electron-debug
+timeout electron-userland/electron-prebuilt-compile
+Returning timeoutSetfacebook/react
+Returning timeoutSetfacebook/react
+Returning timeoutSetreduxjs/redux
+100%|████████████████████████████████████████████| 1440/1440 [10:22:01<00:00, 25.92s/it]
