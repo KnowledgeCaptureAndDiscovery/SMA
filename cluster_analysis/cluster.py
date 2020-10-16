@@ -144,7 +144,6 @@ def LDA(data,rep_list):
     return probs,topic_dict
 
 
-
 if __name__ == "__main__":
     input_file = 'data/result_13k.json'
     # load data
