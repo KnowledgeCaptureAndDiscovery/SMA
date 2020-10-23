@@ -16,16 +16,14 @@ def getDependencies(input_file, output_file, git_hub_key, hop):
     with open(input_file, 'r') as fp:
         gitLink = fp.readlines()
     
-    for link in tqdm(gitLink):
-        gh = xkcd2347.GitHub(key = git_hub_key)
-        link = link.rstrip()
-        owner, repo = link.split(".com/")[1].split("/")
-        result = [dep['packageName'] for dep in gh.get_dependencies(repo_owner = owner, repo_name = repo, depth = hop)]
-        if(len(result) > 0):
-            dependency_data[link] = result
-        else:
-            no_dependency_data.append(link)
-            
+    link = gitLink[0]
+    #for link in tqdm(gitLink):
+    gh = xkcd2347.GitHub(key = git_hub_key)
+    link = link.rstrip()
+    owner, repo = link.split(".com/")[1].split("/")
+    result = [dep['packageName'] for dep in gh.get_dependencies(repo_owner = owner, repo_name = repo, depth = hop)]
+    if(len(result) > 0):
+        dependency_data[link] = result
     with open(output_file, 'w') as fp:
         json.dump(dependency_data, fp, indent=4)
 
