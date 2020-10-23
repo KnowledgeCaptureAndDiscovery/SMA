@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[1]:
+# In[ ]:
 
 
 import json
@@ -148,10 +148,4 @@ def LDA(data,rep_list):
         topic_dict[topic_id].append(rep_list[e])
 
     return probs,topic_dict
-
-
-# In[ ]:
-
-
-
 
